@@ -186,12 +186,6 @@ Data Analysis & Data Science Student
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 ### ⭐ If you find this project helpful, please consider giving it a star!
