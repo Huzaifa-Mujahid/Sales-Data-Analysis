@@ -175,7 +175,7 @@ retail-sales-analysis/
 **Huzaifa Mujahid**  
 Data Analysis & Data Science Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/huzaifa-mujahid-17870639b)
 ---
 
 ## 🌟 Acknowledgments
